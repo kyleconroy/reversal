@@ -12,10 +12,6 @@ For example, to forward `localhost:8000` to `192.168.1.10:5000`
 
 ## Downloads
 
-- [Windows]()
-- [OSX]()
-- [Linux]()
-
-More platform-specific builds available in [the latest release]().
+Available in [the latest release](https://github.com/kyleconroy/reversal/releases/latest).
 
 Builds powered by [gox](https://github.com/mitchellh/gox)
